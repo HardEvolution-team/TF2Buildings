@@ -1,0 +1,72 @@
+{
+  "sentry_1shoot": {
+    "category": "hostile",
+    "sounds": [
+      "tf2sentry:sentry_1shoot"
+    ]
+  },
+  "sentry_2shoot": {
+    "category": "hostile",
+    "sounds": [
+      "tf2sentry:sentry_2shoot"
+    ]
+  },
+  "sentry_3shoot": {
+    "category": "hostile",
+    "sounds": [
+      "tf2sentry:sentry_3shoot"
+    ]
+  },
+  "sentry_damage": {
+    "category": "hostile",
+    "sounds": [
+      "tf2sentry:sentry_damage1",
+      "tf2sentry:sentry_damage2",
+      "tf2sentry:sentry_damage3",
+      "tf2sentry:sentry_damage4"
+    ]
+  },
+  "sentry_empty": {
+    "category": "hostile",
+    "sounds": [
+      "tf2sentry:sentry_empty"
+    ]
+  },
+  "sentry_explode": {
+    "category": "hostile",
+    "sounds": [
+      "tf2sentry:sentry_explode"
+    ]
+  },
+  "sentry_finish": {
+    "category": "hostile",
+    "sounds": [
+      "tf2sentry:sentry_finish"
+    ]
+  },
+  "sentry_rocket": {
+    "category": "hostile",
+    "sounds": [
+      "tf2sentry:sentry_rocket"
+    ]
+  },
+  "sentry_spot": {
+    "category": "hostile",
+    "sounds": [
+      "tf2sentry:sentry_spot"
+    ]
+  },
+  "sentry_upgrading": {
+    "category": "hostile",
+    "sounds": [
+      "tf2sentry:sentry_upgrading1",
+      "tf2sentry:sentry_upgrading2",
+      "tf2sentry:sentry_upgrading3",
+      "tf2sentry:sentry_upgrading4",
+      "tf2sentry:sentry_upgrading5",
+      "tf2sentry:sentry_upgrading6",
+      "tf2sentry:sentry_upgrading7",
+      "tf2sentry:sentry_upgrading8"
+    ]
+  }
+}

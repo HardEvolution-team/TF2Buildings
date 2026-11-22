@@ -1,0 +1,8 @@
+item.TF2Dispenser.blu.name=TF2 Dispenser Blu
+item.TF2Dispenser.red.name=TF2 Dispenser Red
+tile.TF2Dispenser.name=TF2 Dispenser
+gui.tf2dispenser.title=TF2 Dispenser
+gui.tf2dispenser.heal=heal
+gui.tf2dispenser.feed=feed
+gui.tf2dispenser.repair=repair
+gui.tf2dispenser.neutralize=neutralize

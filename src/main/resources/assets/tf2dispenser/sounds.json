@@ -1,0 +1,14 @@
+{
+  "beam": {
+    "category": "block",
+    "sounds": [
+      "tf2dispenser:beam"
+    ]
+  },
+  "fillUp": {
+    "category": "block",
+    "sounds": [
+      "tf2dispenser:fillUp"
+    ]
+  }
+}

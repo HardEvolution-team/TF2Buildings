@@ -1,0 +1,19 @@
+[{
+	"modid": "tf2sentry",
+	"name": "TF2 Sentry",
+	"version": "{{ mod_version }}",
+	"mcversion": "1.12.2",
+	"description": "{{ mod_description }}",
+	"authorList": [{{ mod_authors }}],
+	"credits": "{{ mod_credits }}",
+	"url": "", "updateJSON": "", "logoFile": ""
+},{
+	"modid": "tf2dispenser",
+	"name": "TF2 Dispenser",
+	"version": "{{ mod_version }}",
+	"mcversion": "1.12.2",
+	"description": "TF2 Dispenser (part of the TF2 Buildings port): heals, feeds, repairs and cleanses players nearby, fuelled with iron, gold or diamonds.",
+	"authorList": [{{ mod_authors }}],
+	"credits": "{{ mod_credits }}",
+	"url": "", "updateJSON": "", "logoFile": ""
+}]
