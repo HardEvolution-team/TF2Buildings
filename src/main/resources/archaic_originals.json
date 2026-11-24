@@ -1,0 +1,32 @@
+{
+  "_comment": "Where ArchaicLib downloads the original files of this port from. Edit freely; set locked=true to keep your edits when the mod updates. Files go to archaic_originals/ and are checked by sha256.",
+  "port": "tf2buildings",
+  "version": 3,
+  "locked": false,
+  "files": [
+    {
+      "modid": "tf2sentry",
+      "file": "TF2Sentry-1.7.10.jar",
+      "name": "TF2Sentry-1.7.10.jar",
+      "sha256": "ed82ffa88bf0b82f5586ed8a4fcface0309974ccf902a96380cd6e04d8cf4a5f",
+      "size": 4198957,
+      "page": "https://www.9minecraft.net/?p=775",
+      "mirrors": [
+        "scrape:https://dl4.9minecraft.net/index.php?act=dl&id=1437719701 https://[a-z0-9.]+/index\\.php\\?act=download&(?:amp;)?id=1437719701&(?:amp;)?hash=[a-f0-9]+",
+        "scrape:https://dl4.mc-mod.net/index.php?act=dl&id=1437719701 https://[a-z0-9.]+/index\\.php\\?act=download&(?:amp;)?id=1437719701&(?:amp;)?hash=[a-f0-9]+"
+      ]
+    },
+    {
+      "modid": "tf2dispenser",
+      "file": "TF2Dispenser-1.7.10.jar",
+      "name": "TF2Dispenser-1.7.10.jar",
+      "sha256": "af8ad6e498ed91d3d2fc0048eee78fd9c4f0704a079620ee4c4c6aa16a498e73",
+      "size": 3373831,
+      "page": "https://www.9minecraft.net/?p=775",
+      "mirrors": [
+        "scrape:https://dl4.9minecraft.net/index.php?act=dl&id=1437719649 https://[a-z0-9.]+/index\\.php\\?act=download&(?:amp;)?id=1437719649&(?:amp;)?hash=[a-f0-9]+",
+        "scrape:https://dl4.mc-mod.net/index.php?act=dl&id=1437719649 https://[a-z0-9.]+/index\\.php\\?act=download&(?:amp;)?id=1437719649&(?:amp;)?hash=[a-f0-9]+"
+      ]
+    }
+  ]
+}
